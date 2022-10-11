@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingdavidtm&label=Profile%20views&color=0e75b6&style=flat" alt="ingdavidtm" /> </p>
 <h1 align="center">Hi 👋, I'm David Tamayo</h1>
-<h3 align="center">A passionate and collaborative FullStack Web Developer from Ecuador</h3>
+<h3 align="center">A passionate and collaborative Full-Stack Web Developer from Ecuador</h3>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1100&color=53A718&center=true&vCenter=true&width=435&lines=%22Hello%2C+World!%22" alt="Typing SVG" /></a>
 </div>
