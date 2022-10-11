@@ -7,9 +7,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1250&color=53A718&background=000000&center=true&vCenter=true&multiline=true&width=360&height=120&lines=00100010+01001000+01100101+01101100;01101100+01101111+00101100+00100000;01010111+01101111+01110010+01101100;01100100+00100001+00100010" alt="Typing SVG" /></a>
 </div>
+<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=IngDavidTM&theme=merko&no-frame=true" /></p>
+
 <div>‎ </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingdavidtm" alt="ingdavidtm" /></a> </p>
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=IngDavidTM&theme=merko&no-frame=true" /></p>
 
 - 🔭 I’m currently working on [To Do List](https://github.com/IngDavidTM/to-do-list)
 
