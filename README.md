@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **david.tamayo1112@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/ing-david-tamayo)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ing-david-tamayo)
 
 - ⚡ Fun fact **I love to resolve problems**
 
