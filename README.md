@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingdavidtm" alt="ingdavidtm" /></a> </p>
 <div>‎ </div>
 
-- 🔭 I’m currently working on [Leaderboard](https://github.com/IngDavidTM/leaderboard)
+- 🔭 I’m currently working on [Math Magicians](https://github.com/IngDavidTM/math-magicians.git)
 
 - 🌱 I’m currently learning **APIs and React**
 
