@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [BookStore](https://github.com/IngDavidTM/bookstore.git)
 
-- 🌱 I’m currently learning **APIs and React**
+- 🌱 I’m currently learning **React and Redux**
 
 - 📫 How to reach me **david.tamayo1112@gmail.com**
 
