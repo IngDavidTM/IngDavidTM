@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Blog App](https://github.com/IngDavidTM/blog-app)
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 📫 How to reach me **david.tamayo1112@gmail.com**
 
