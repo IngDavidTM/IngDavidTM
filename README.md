@@ -12,7 +12,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingdavidtm" alt="ingdavidtm" /></a> </p>
 <div>‎ </div>
 
-- 🔭 I’m currently working on [Blog App](https://github.com/IngDavidTM/blog-app)
+- 🔭 I’m currently working on [Hello React and Rails](https://github.com/IngDavidTM/hello-rails-back-end)
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
