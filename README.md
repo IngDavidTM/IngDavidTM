@@ -1,5 +1,6 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ingdavidtm&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <img src="./banner.png" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm David Tamayo</h1>
