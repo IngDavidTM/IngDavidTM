@@ -34,10 +34,11 @@
 <h3 align="center">Let's connect!</h3>
 <p align="center">Connect with me on these platforms:</p>
 <p align="center">
-  <a href="https://twitter.com/david5tm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30"></a>
-  <a href="https://www.linkedin.com/in/ing-david-tamayo/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"></a>
-  <a href="https://stackoverflow.com/users/20215198/david-tamayo" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="30"></a>
-  <a href="https://www.instagram.com/davitam123/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30"></a>
+  <a href="https://twitter.com/david5tm" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="Twitter" height="50" width="50"></a>
+  <a href="https://www.linkedin.com/in/ing-david-tamayo/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" height="50" width="50"></a>
+  <a href="https://stackoverflow.com/users/20215198/david-tamayo" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Stackoverflow.svg" alt="Stack Overflow" height="50" width="50"></a>
+  <a href="https://www.instagram.com/davitam123/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Instagram" height="50" width="50"></a>
+    <a href="https://medium.com/@david.tamayo1112" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" alt="Medium" height="50" width="50"></a>
 </p>
 <div>‎ </div>
 
