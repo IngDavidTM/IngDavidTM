@@ -1,26 +1,34 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingdavidtm&label=Profile%20views&color=0e75b6&style=flat" alt="ingdavidtm" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ingdavidtm&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
+</p>
+
 <h1 align="center">Hi 👋, I'm David Tamayo</h1>
 <h3 align="center">A passionate and collaborative Full-Stack Web Developer from Ecuador</h3>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1100&color=53A718&center=true&vCenter=true&width=435&lines=%22Hello%2C+World!%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1100&color=53A718&center=true&vCenter=true&width=435&lines=%22Hello%2C+World!%22" alt="Typing SVG">
+  </a>
 </div>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1250&color=53A718&background=000000&center=true&vCenter=true&multiline=true&width=360&height=120&lines=00100010+01001000+01100101+01101100;01101100+01101111+00101100+00100000;01010111+01101111+01110010+01101100;01100100+00100001+00100010" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1250&color=53A718&background=000000&center=true&vCenter=true&multiline=true&width=360&height=120&lines=00100010+01001000+01100101+01101100;01101100+01101111+00101100+00100000;01010111+01101111+01110010+01101100;01100100+00100001+00100010" alt="Typing SVG">
+  </a>
 </div>
 
-<div>‎ </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingdavidtm" alt="ingdavidtm" /></a> </p>
-<div>‎ </div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ingdavidtm&margin-w=15&theme=juicyfresh&no-frame=true" alt="GitHub Profile Trophy">
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/IngDavidTM/hello-rails-back-end)
-
+- 🔭 I’m currently working on [Portfolio](https://github.com/IngDavidTM/portfolio-react)
 - 🌱 I’m currently learning **Typescript**
-
-- 📫 How to reach me **david.tamayo1112@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/ing-david-tamayo)
-
-- ⚡ Fun fact **I love to resolve problems**
+- 💬 Ask me about **Ruby on Rails, React.js, and PostgreSQL**
+- 📫 How to reach me: **david.tamayo1112@gmail.com**
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ing-david-tamayo)
+- ⚡ Fun fact: **I love to solve problems**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
