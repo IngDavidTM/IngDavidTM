@@ -66,10 +66,23 @@
 
 <div>‎ </div>
 <div>‎ </div>
+<h3 align="center">Stats</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingdavidtm&show_icons=true&locale=en&layout=compact" alt="ingdavidtm" /></p>
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingdavidtm&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ingdavidtm" />
+    </td>
+    <td>
+      <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=ingdavidtm&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ingdavidtm" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingdavidtm&show_icons=true&locale=en" alt="ingdavidtm" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IngDavidTM&" alt="IngDavidTM" /></p>
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IngDavidTM&&theme=tokyonight&hide_border=true" alt="IngDavidTM" /></p>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IngDavidTM&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
