@@ -24,9 +24,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/IngDavidTM/portfolio-react)
+- 🔭 I’m currently working on [Portfolio-React](https://github.com/IngDavidTM/portfolio-react)
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **Ruby on Rails, React.js, and PostgreSQL**
+- 👨‍💻 All of my projects are available at [Portfolio](https://ingdavidtm.github.io/portfolio/)
 - 📫 How to reach me: **david.tamayo1112@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ing-david-tamayo)
 - ⚡ Fun fact: **I love to solve problems**
