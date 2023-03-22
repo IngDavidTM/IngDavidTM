@@ -23,6 +23,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ingdavidtm&margin-w=15&theme=juicyfresh&no-frame=true" alt="GitHub Profile Trophy">
   </a>
 </p>
+<h4 align="center">Available for hire!</h4>
 
 - 🔭 I’m currently working on [Portfolio-React](https://github.com/IngDavidTM/portfolio-react)
 - 🌱 I’m currently learning **Typescript**
@@ -31,6 +32,8 @@
 - 📫 How to reach me: **david.tamayo1112@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ing-david-tamayo)
 - ⚡ Fun fact: **I love to solve problems**
+
+
 
 <h3 align="center">Let's connect!</h3>
 <p align="center">Connect with me on these platforms:</p>
