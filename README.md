@@ -25,14 +25,14 @@
 </p>
 <h4 align="center">Available for hire!</h4>
 
-- 🔭 I’m currently working in [Torre AI](https://github.com/MrDavidTM)
+- 🔭 I’m currently working on [WebMindsStudio](https://github.com/WebMindsStudio/webpage)
 - 🌱 I’m currently learning **Scala**
 - 💬 Ask me about **Ruby on Rails, React.js, Scala, Vue, Vuex, MySQL, and PostgreSQL**
 - 👨‍💻 All of my projects are available at [Portfolio](https://ingdavidtm.github.io/portfolio/)
 - 📫 How to reach me: **david.tamayo1112@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ing-david-tamayo)
 - 🔮 Check my experience in other languages [MrDavidTM](https://github.com/MrDavidTM)
-- 👯 I’m looking to collaborate on React and Ruby on Rails projects.
+- 👯 I’m looking to collaborate on React, Vue, Scala and Ruby on Rails projects.
 - ⚡ Fun fact: **I love to solve problems**
 
 
