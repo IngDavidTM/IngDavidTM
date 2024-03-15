@@ -90,5 +90,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IngDavidTM&&theme=tokyonight&hide_border=true" alt="IngDavidTM" /></p>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IngDavidTM&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
