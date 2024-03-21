@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on [WebMindsStudio](https://github.com/WebMindsStudio/webpage)
 - 🌱 I’m currently learning **Scala**
 - 💬 Ask me about **Ruby on Rails, React.js, Scala, Vue, Vuex, MySQL, and PostgreSQL**
-- 👨‍💻 All of my projects are available at [Portfolio](https://ingdavidtm.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://grand-lokum-9d8bec.netlify.app/)
 - 📫 How to reach me: **david.tamayo1112@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/ing-david-tamayo)
 - 🔮 Check my experience in other languages [MrDavidTM](https://github.com/MrDavidTM)
