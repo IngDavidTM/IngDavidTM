@@ -26,7 +26,7 @@
 <h4 align="center">Available for hire!</h4>
 
 - 🔭 I’m currently working on [WebMindsStudio](https://github.com/WebMindsStudio/webpage)
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently improving my knowledge on **Vue**
 - 💬 Ask me about **Ruby on Rails, React.js, Scala, Vue, Vuex, MySQL, and PostgreSQL**
 - 👨‍💻 All of my projects are available at [Portfolio](https://grand-lokum-9d8bec.netlify.app/)
 - 📫 How to reach me: **david.tamayo1112@gmail.com**
