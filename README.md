@@ -48,10 +48,10 @@
   150+ reviews/week at peak; mentored 50+ students. :contentReference[oaicite:6]{index=6}
 
 ## 🗂️ Selected projects
-- **Tastyware** – options analytics/trading UI. **Vue, Vuetify, Nuxt**. :contentReference[oaicite:7]{index=7}  
-- **WebMindsStudio** – single-page app for web services. **React, Next, Tailwind, TS, Ruby, MySQL**. :contentReference[oaicite:8]{index=8}  
-- **SIGUE** – donations & meetings platform (non-profit). **PHP, WordPress**. :contentReference[oaicite:9]{index=9}  
-- **Task Management** – time-bounded task organizer. **Vue, Vuex, TS**. :contentReference[oaicite:10]{index=10}
+- **Tastyware** – options analytics/trading UI. **Vue, Vuetify, Nuxt**.
+- **WebMindsStudio** – single-page app for web services. **React, Next, Tailwind, TS, Ruby, MySQL**.
+- **SIGUE** – donations & meetings platform (non-profit). **PHP, WordPress**.
+- **Task Management** – time-bounded task organizer. **Vue, Vuex, TS**.
 
 ---
 
